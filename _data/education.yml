@@ -1,0 +1,64 @@
+- layout: cmmn/left
+  name: 텐서플로우(Tensorflow) 활용한 딥러닝 인공지능 과정
+  dates: 2020.02.08 ~ 2020.03.21
+  qualification: 솔데스크
+  quote: >
+    딥러닝 학습 과정에 필요한 기본 개념들과 서빙 환경 구성 교육
+  description: | # this will include new lines to allow paragraphs
+    * Tensorflow, Keras 기반 딥러닝 모델을 개발할 수 있는 개발자 양성 과정
+    * Google Colab이나, Anaconda 개발 환경을 이용하여 모델을 제작하며, 직접 실무환경에서 서비스를 하기 위한 과정을 수료함
+
+- layout: cmmn/left
+  name: 한큐에 자바 Step3 (3기)
+  link: https://cafe.naver.com/amunamuna
+  dates: 2019.08.10 ~ 2020.02.02
+  qualification: 한큐에 자바
+  quote: >
+    eGov(전자정부) 프레임워크를 이용한 SI(System Integration) 실무 교육
+  description: | # this will include new lines to allow paragraphs
+    * 한큐에 자바 Step3 (1기)의 내용을 완벽하게 소화하질 못하여 다시 수업을 재개함
+    * <mark>매주 과제</mark> 진행 후, <mark>Cafe 게시판</mark>에 등록 완료 (Cafe 별명 : 코드마이어)
+    * eXERD를 활용한 업무 이해 (공통코드, 상태코드, 그룹코드)
+    * 쇼핑몰 사이트 中 일부 기능 구축 (상품카테고리에 따른 대/중/소 메뉴 구현, 회원가입 유효성 검사, 할인가 적용)
+    * jqGrid 유틸을 사용한 상품카테고리 <mark>관리자</mark> 페이지 구현
+    * 쇼핑몰 상품 노출 기간 <mark>관리</mark>를 위한 페이지 구현 기능 <mark>추가</mark>
+    * <mark>eGov Framwork</mark> <mark>jQuery</mark> <mark>MariaDB</mark> <mark>Mybatis</mark> <mark>Ajax</mark> <mark>eXERD</mark> 사용
+
+- layout: cmmn/left
+  name: 한큐에 자바 Step2.5
+  link: https://cafe.naver.com/amunamuna
+  dates: 2019.04.27 ~ 2019.06.22
+  qualification: 한큐에 자바
+  quote: >
+    eGov(전자정부) 프레임워크를 이용한 SI(System Integration) 실무 교육
+  description: | # this will include new lines to allow paragraphs
+    * <mark>매주 과제</mark> 진행 후, <mark>Cafe 게시판</mark>에 등록 완료 (Cafe 별명 : 코드마이어)
+    * Spring MVC 기능을 이용한 게시판 기능 구현
+    * <mark>eGov Framwork</mark> <mark>jQuery</mark> <mark>MariaDB</mark> <mark>Mybatis</mark> <mark>Ajax</mark> 사용
+
+- layout: cmmn/left
+  name: 한큐에 자바 Step3 (1기)
+  link: https://cafe.naver.com/amunamuna
+  dates: 2018.08.25 ~ 2019.01.05
+  qualification: 한큐에 자바
+  quote: >
+    eGov(전자정부) 프레임워크를 이용한 SI(System Integration) 실무 교육
+  description: | # this will include new lines to allow paragraphs
+    * <mark>매주 과제</mark> 진행 후, <mark>Cafe 게시판</mark>에 등록 완료 (Cafe 별명 : 코드마이어)
+    * eXERD를 활용한 업무 이해 (공통코드, 상태코드, 그룹코드)
+    * 쇼핑몰 사이트 中 일부 기능 구축 (상품카테고리에 따른 대/중/소 메뉴 구현, 회원가입 유효성 검사, 할인가 적용)
+    * jqGrid 유틸을 사용한 상품카테고리 <mark>관리자</mark> 페이지 구현
+    * <mark>eGov Framwork</mark> <mark>jQuery</mark> <mark>MariaDB</mark> <mark>Mybatis</mark> <mark>Ajax</mark> <mark>eXERD</mark> 사용
+
+- layout: cmmn/left
+  name: 한큐에 자바 Step2
+  link: https://cafe.naver.com/amunamuna
+  dates: 2018.05.27 ~ 2018.09.09
+  qualification: 한큐에 자바
+  quote: >
+    eGov(전자정부) 프레임워크를 이용한 SI(System Integration) 실무 교육
+  description: | # this will include new lines to allow paragraphs
+    * <mark>매주 과제</mark> 진행 후, <mark>Cafe 게시판</mark>에 등록 완료 (Cafe 별명 : 코드마이어)
+    * SVN 이슈 관리, Spring MVC (Controller → Service → ServiceImpl → Mapper)
+    * tiles 라이브러리를 이용한 Layout 사용법, jQuery 이벤트 리스너, 익명함수와 즉시실행함수, this의 의미
+    * <mark>eGov Framwork</mark> <mark>jQuery</mark> <mark>MariaDB</mark> <mark>Mybatis</mark> <mark>Ajax</mark> 사용

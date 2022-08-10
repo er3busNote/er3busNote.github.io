@@ -1,0 +1,11 @@
+- layout: cmmn/left
+  name: 제16회 공개SW 개발자 대회 참가
+  link: https://www.oss-registration.kr/
+  dates: 2022.08.04 ~ 2022.09.15
+  github: DistributedMetaverse/DistributedMetaverse
+  quote: >
+    팀명 : DistributedMetaverse
+  description: | # this will include new lines to allow paragraphs
+    * 탈중앙화를 활용하는 보안 분산 레포지토리 플랫폼 구현
+    * 분산 해시 테이블(DHT : Distributed Hash Tables) 기술을 이용
+    * BitTorrent와 유사하게 유저별로 자신만의 해시값을 DB에 저장을 하고 관리하며, Common하게 다른 사용자의 데이터를 P2P 네트워크 방식과 유사하게 동작하는 보안 레포지토리 플랫폼을 구현

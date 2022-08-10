@@ -1,0 +1,31 @@
+- layout: cmmn/middle
+  name: K-사이버 시큐리티 챌린지 2020 대회 (AI 악성코드 탐지)
+  dates: (예선) 2020.9.17 ~ 10.27 / (본선) 2020.11.26
+  link: https://www.dailysecu.com/news/articleView.html?idxno=113005
+  quote: >
+    한국인터넷진흥원 (KISA) 주최
+  description: | # this will include new lines to allow paragraphs
+    * 팀명 - AI말랩 (팀장)
+    * 예선 7위 / 본선 5위
+
+- layout: cmmn/middle
+  name: HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
+  dates: 2021.08.02 ~ 2021.10.22
+  link: https://dacon.io/competitions/official/235757/leaderboard
+  quote: >
+    국가정보원 & 국가보안기술연구소 주최
+  description: | # this will include new lines to allow paragraphs
+    * 개인 - CryptoNet
+    * Private Score 20위
+    * 715명 中 상위 12%
+
+- layout: cmmn/middle
+  name: 병변 검출 AI 경진대회
+  dates: 2021.11.15 ~ 2021.12.06
+  link: https://dacon.io/competitions/official/235855/leaderboard
+  quote: >
+    한국지능정보사회진흥원 (NIA) 주최
+  description: | # this will include new lines to allow paragraphs
+    * 개인 - Er3bus
+    * Private Score 50위
+    * 543명 中 상위 20%

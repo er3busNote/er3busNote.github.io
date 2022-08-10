@@ -1,0 +1,6 @@
+<div class="container opensource-container">
+    <h3>{{ site.opensource_title | default: "Opensource" }}</h3>
+    {% for opensource in site.data.opensource %}
+        {% include {{ opensource.layout | default: 'cmmn/left' | append: ".html" }} item=opensource %}
+    {% endfor %}
+</div>

@@ -1,0 +1,29 @@
+- layout: cmmn/middle
+  name: 정보처리기사
+  description: | # this will include new lines to allow paragraphs
+    * 2018.05.25 취득
+    * 한국산업인력공단
+
+# - layout: cmmn/middle
+#   name: 개인정보보호사(PIP)
+#   description: | # this will include new lines to allow paragraphs
+#     * 2016.06.24 취득
+#     * (사)벤처기업협회 검정평가원
+
+- layout: cmmn/middle
+  name: 네트워크관리사 1급
+  description: | # this will include new lines to allow paragraphs
+    * 2016.05.31 취득
+    * 한국정보통신자격협회
+
+- layout: cmmn/middle
+  name: 리눅스마스터 1급
+  description: | # this will include new lines to allow paragraphs
+    * 2015.11.27 취득
+    * 한국정보통신진흥협회
+
+- layout: cmmn/middle
+  name: 컴퓨터활용능력1급
+  description: | # this will include new lines to allow paragraphs
+    * 2011.12.19 취득
+    * 대한상공회의소

@@ -1,0 +1,24 @@
+- layout: cmmn/top-middle
+  name: AI 개발 파트 매니징
+  quote: >
+    2019.01.01 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    * AI 개발 파트 리딩 & 매니징 (2019.01.01 ~ 현재)
+      - 세부내용은 상단(↑)의 Experience 참고
+
+- layout: cmmn/top-middle
+  name: 내 PC 돌보미 Infra Operation
+  link: https://pcsecucheck.kr/inspect/customer
+  quote: >
+    2021.12.31 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    * 내 PC 돌보미 내/외부망 Infra 관리 (2021.12.31 ~ 현재)
+      - 업무망 관련 트래픽 모니터링 (Google Analysis)
+      - 장애 대응
+        + Traffic 관련 서버 Down 시 대응
+        + 점검원 업무 관련 각종 서버 <mark>Infra</mark> 지원 (SSL VPN, DNS, DB Backup 및 용량 증설 관련 <mark>이슈 지원</mark>)
+    * 추가 개발 관련 프로젝트 진행 및 매니징 (2022.04.31 ~ 현재)
+      - 학부모 동의 페이지, 프로모션, 예약 페이지관련 유지보수
+      - 챗봇 추가 개발 (↓)
+        + 백엔드 : Spring Data JPA, Flask API
+        + 프론트 : React
