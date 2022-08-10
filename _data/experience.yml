@@ -20,7 +20,7 @@
         + MariaDB, MongoDB
         + Hadoop, Spark
         + React
-        + Hibernate
+        + Hibernate, QueryDSL
     * 내PC 돌보미 서비스 시스템 운영 및 유지보수
       - Infra & 예약 및 운영시스템 유지보수
         + [내 PC 돌보미 예약페이지](https://pcsecucheck.kr/inspect/customer) 유지보수
