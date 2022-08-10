@@ -24,7 +24,7 @@
     * 내PC 돌보미 서비스 시스템 운영 및 유지보수
       - Infra & 예약 및 운영시스템 유지보수
         + [내 PC 돌보미 예약페이지](https://pcsecucheck.kr/inspect/customer) 유지보수
-        + [14세 미만 학부모 동의 페이지](https://pc118.kr:8081/)를 위한 <mark>Infra Opration</mark> & <mark>DevOps</mark> & <mark>Managing</mark>
+        + [14세 미만 학부모 동의 페이지](https://pc118.kr:8081/)를 위한 <mark>Infra Operation</mark> & <mark>DevOps</mark> & <mark>Managing</mark>
         + [프로모션 랜딩 페이지](https://pc118.kr/mypc/prev_promotion.html) 개발
       - 현장점검을 위한 단체 예약 시스템 추가 개발 (↓)
         + 백엔드 : Aspnet Core (C#) → Echo (Go)
