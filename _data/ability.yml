@@ -19,6 +19,6 @@
         + 점검원 업무 관련 각종 서버 <mark>Infra</mark> 지원 (SSL VPN, DNS, DB Backup 및 용량 증설 관련 <mark>이슈 지원</mark>)
     * 추가 개발 관련 프로젝트 진행 및 매니징 (2022.04.31 ~ 현재)
       - 학부모 동의 페이지, 프로모션, 예약 페이지관련 유지보수
-      - 챗봇 추가 개발 (↓)
-        + 백엔드 : Spring Data JPA, Flask API
-        + 프론트 : React
+#      - 챗봇 추가 개발 (↓)
+#        + 백엔드 : Spring Data JPA, Flask API
+#        + 프론트 : React
