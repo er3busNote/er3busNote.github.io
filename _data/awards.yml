@@ -2,11 +2,12 @@
   name: 사이버보안 AI 빅데이터 챌린지 2022 (AI 악성코드 탐지)
   dates: (예선) 2022.10.21 / (본선) 2022.11.17
   link: https://www.korea.kr/news/pressReleaseView.do?newsId=156540039
+  link: https://www.youtube.com/watch?v=lc0eak5ZOms&t=47m04s
   quote: >
     과학기술정보통신부 주최 / 한국인터넷진흥원 (KISA) 주관
   description: | # this will include new lines to allow paragraphs
     * 팀명 - Xransformer (개인팀)
-    * 예선 3위 / 본선 2위
+    * 예선 3위 / 본선 <mark>2위</mark> (최우수상)
 
 - layout: cmmn/middle
   name: K-사이버 시큐리티 챌린지 2020 대회 (AI 악성코드 탐지)
