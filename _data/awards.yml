@@ -1,9 +1,19 @@
 - layout: cmmn/middle
+  name: 사이버보안 AI 빅데이터 챌린지 2022 (AI 악성코드 탐지)
+  dates: (예선) 2022.10.21 / (본선) 2022.11.17
+  link: https://www.korea.kr/news/pressReleaseView.do?newsId=156540039
+  quote: >
+    과학기술정보통신부 주최 / 한국인터넷진흥원 (KISA) 주관
+  description: | # this will include new lines to allow paragraphs
+    * 팀명 - Xransformer (개인팀)
+    * 예선 3위 / 본선 2위
+
+- layout: cmmn/middle
   name: K-사이버 시큐리티 챌린지 2020 대회 (AI 악성코드 탐지)
   dates: (예선) 2020.9.17 ~ 10.27 / (본선) 2020.11.26
-  link: https://www.dailysecu.com/news/articleView.html?idxno=113005
+  link: https://www.kisa.or.kr/401/form?postSeq=2662&lang_type=KO
   quote: >
-    한국인터넷진흥원 (KISA) 주최
+    과학기술정보통신부 주최 / 한국인터넷진흥원 (KISA) 주관
   description: | # this will include new lines to allow paragraphs
     * 팀명 - AI말랩 (팀장)
     * 예선 7위 / 본선 5위

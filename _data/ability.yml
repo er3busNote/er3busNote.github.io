@@ -4,21 +4,39 @@
     2019.01.01 ~ 현재
   description: | # this will include new lines to allow paragraphs
     * AI 개발 파트 리딩 & 매니징 (2019.01.01 ~ 현재)
-      - 세부내용은 상단(↑)의 Experience 참고
+      - 내부 솔루션 관련 AI 모델 및 API 서버 코어 개발 & 매니징 
+      - 1일 최소 530만개 이상 웹페이지 소스코드 크롤링 및 정적분석/AI 분석 기능 개발 지원
+      - 웹페이지 위변조(디페이스) 공격을 탐지하기 위한 SSD based 모델 유지보수
+      - 웹방화벽 모듈 내, Nginx Proxy로 받아오는 HTTP Request/Response CRS Rule 탐지를 위한 AI 모델 및 API 개발
+      - 클라우드 악성코드 탐지를 위한 내부적인 <mark>Infra</mark> 개발 및 관련 기술 스택 보유 (with SBA 사업)
 
 - layout: cmmn/top-middle
   name: 내 PC 돌보미 Infra Operation
   link: https://pcsecucheck.kr/inspect/customer
   quote: >
-    2021.12.31 ~ 현재
+    2021.12.31 ~ 2022.12.31
   description: | # this will include new lines to allow paragraphs
-    * 내 PC 돌보미 내/외부망 Infra 관리 (2021.12.31 ~ 현재)
+    * 내 PC 돌보미 내/외부망 Infra 관리 (2021.12.31 ~ 2022.12.31)
       - 업무망 관련 트래픽 모니터링 (Google Analysis)
       - 장애 대응
         + Traffic 관련 서버 Down 시 대응
         + 점검원 업무 관련 각종 서버 <mark>Infra</mark> 지원 (SSL VPN, DNS, DB Backup 및 용량 증설 관련 <mark>이슈 지원</mark>)
-    * 추가 개발 관련 프로젝트 진행 및 매니징 (2022.04.31 ~ 현재)
-      - 학부모 동의 페이지, 프로모션, 예약 페이지관련 유지보수
+    * 추가 개발 관련 프로젝트 진행 및 매니징 (2022.04.31 ~ 2022.12.31)
+      - 학부모 동의 페이지
+        + GitLab CI/CD 무중단 배포를 위한, Delivery 형상관리 매니징 스크립트 개발 지원
+        + NICE API를 이용한 bearer token prefix 이슈 해결 (대/소문자 구분)
+        + 추가적인 UI 화면 개선 및 이슈 지원
+      - 프로모션
+        + PC와 모바일, 태블릿 별 화면 조정이 가능하도록, Flexible 하게 조정이 가능한 CSS Styling 기능 제공
+      - 예약 페이지관련 유지보수
+        + window.opener attribute를 이용하여, 자식페이지(학부모 동의 페이지, React)에서 작성한 자녀 정보를(→) 부모페이지(예약 메인 페이지, HTML)로 message를 전달하기 위한 추가 기능 개발
+        + 추가적인 UI 화면 개선 및 이슈 지원
+      - 내부 점검원 관리자 페이지 통계 부분 관련 기능 추가
+        + 각 운영체제(PC/Android)별로 점검결과 확인이 가능하도록 필터 추가
+        + 각 Select 태그 별, 서비스 요일/시간대별/권역별/연령별 제공 현황 기능 추가 구현
+      - 현장 점검을 위한 단체 예약 시스템 추가 개발 (with Echo Framework via Golang)
+        + 예약을 저장하지 못할 시 반드시 Rollback하도록 하는 DB 트랜잭션 기능 구현
+        + SELECT ~ FOR UPDATE 쿼리를 이용한 동시성 제어 (배타적 LOCK)
 #      - 챗봇 추가 개발 (↓)
 #        + 백엔드 : Spring Data JPA, Flask API
 #        + 프론트 : React
