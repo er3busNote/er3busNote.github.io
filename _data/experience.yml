@@ -16,7 +16,7 @@
         + Vue.js
         + Gorm
       - AI DevOps 관리자 페이지 도메인 기술 스택 (↓)
-        + Spring Data JPA, Spring Security, Spring WebFlux, Flask API
+        + Spring Data JPA, Spring Security, Spring WebFlux
         + MariaDB, MongoDB
         + Hadoop, Spark
         + React
@@ -30,12 +30,6 @@
         + 백엔드 : Aspnet Core (C#) → Echo (Go)
         + CRUD Opration : NHibernate → Gorm
         + 프론트 : VueJS → React
-    * AI WAF 탐지 및 분류 시스템 개발
-      - AWS p3 인스턴스 + 서빙 API 개발 (↓)
-        + Flask API
-    * AI WebShell 탐지 및 분류 시스템 개발
-      - AWS p3 인스턴스 + 서빙 API 개발 (↓)
-        + Spring Data JPA, Flask API
     * 특허 출원 및 등록
       - 인공지능 학습을 위한 PE 명령코드의 왜곡 없는 이미지를 생성하는 악성코드 탐지 방법 및 장치
         + 출원번호 : 10-2020-0021197 (2020.02.20) → 등록번호 : 10-2144-9140000 (2020.08.10)
