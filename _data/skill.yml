@@ -16,7 +16,6 @@
     * Nginx, HA Proxy
     * GitLab CI/CD ( CI Script & Runner )
     * Docker, Portainer
-    # * InfluxDB 2.x
     * Google Analysis
 
 - layout: cmmn/left

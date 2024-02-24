@@ -24,24 +24,13 @@
         + RabbitMQ
         + Vue.js
         + Gorm
-      # - AI DevOps 관리자 페이지 도메인 기술 스택 (↓)
-      #   + Spring Data JPA, Spring Security, Spring WebFlux
-      #   + MariaDB, MongoDB
-      #   + Hadoop, Spark
-      #   + React
-      #   + Hibernate, QueryDSL
     * 내PC 돌보미 서비스 시스템 운영 및 유지보수
       - Infra & <mark>예약</mark> 및 운영시스템 유지보수
         + [내 PC 돌보미 예약페이지](https://pcsecucheck.kr/inspect/customer) 유지보수
         + [14세 미만 학부모 동의 페이지](https://pc118.kr:8081/)를 위한 <mark>Infra Operation</mark> & <mark>DevOps</mark> & <mark>Managing</mark>
         + [프로모션 랜딩 페이지](https://pc118.kr/mypc/prev_promotion.html) 개발
-      # - 현장점검을 위한 <mark>단체 예약</mark> 시스템 추가 개발 (↓)
-      #   + 백엔드 : Aspnet Core (C#) → Echo (Go)
-      #   + CRUD Opration : NHibernate → Gorm
-      #   + 프론트 : VueJS → React
+
     * 특허 출원 및 등록
-      # - 인공지능 학습을 위한 PE 명령코드의 왜곡 없는 이미지를 생성하는 악성코드 탐지 방법 및 장치
-      #   + 출원번호 : 10-2020-0021197 (2020.02.20) → 등록번호 : 10-2144-9140000 (2020.08.10)
       - 인공지능 자가학습형 웹방화벽 서비스 제공 시스템 및 방법
         + 출원번호 : 10-2021-0155449 (2021.11.12) → 등록번호 : 10-2443-8110000 (2022.09.13)
     * 성과를 통한 예정 보다 빠른 3년차 <mark>과장</mark>으로 진급
