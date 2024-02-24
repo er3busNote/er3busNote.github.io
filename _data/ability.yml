@@ -25,7 +25,7 @@
     * 추가 개발 관련 프로젝트 진행 및 매니징 (2022.04.31 ~ 2022.12.31)
       - 학부모 동의 페이지
         + GitLab CI/CD 무중단 배포를 위한, <mark>Delivery</mark> 형상관리 매니징 스크립트 개발 지원
-        + NICE API를 이용한 bearer token prefix 이슈 해결 (대/소문자 구분 with Postman)
+        + NICE API를 이용한 bearer token prefix 이슈 해결 (대/소문자 구분)
         + 추가적인 UI 화면 개선 및 <mark>이슈 지원</mark>
       - 프로모션
         + PC와 모바일, 태블릿 별 화면 조정이 가능하도록, Flexible 하게 조정이 가능한 <mark>CSS Styling</mark> 기능 제공
@@ -35,7 +35,7 @@
       - 내부 점검원 관리자 페이지 통계 부분 관련 기능 추가
         + 각 운영체제(PC/Android)별로 점검결과 확인이 가능하도록 <mark>필터</mark> 추가
         + 각 Select 태그 별, 서비스 요일/시간대별/권역별/연령별 제공 현황 기능 추가 구현
-      - 현장 점검을 위한 단체 예약 시스템 추가 개발 (with Echo Framework via Golang)
+      - 현장 점검을 위한 단체 예약 시스템 추가 개발
         + 예약을 저장하지 못할 시 반드시 <mark>Rollback</mark>하도록 하는 DB 트랜잭션 기능 구현
         + SELECT ~ FOR UPDATE 쿼리를 이용한 <mark>동시성 제어</mark> (배타적 LOCK)
 #      - 챗봇 추가 개발 (↓)

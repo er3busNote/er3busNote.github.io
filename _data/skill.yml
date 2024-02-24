@@ -5,18 +5,18 @@
     * Spring Boot 5, Spring Data JPA, 전자정부 프레임워크
     * JPA, Express.js, Nest.js, Flask, Django, Echo
     * Hibernate, Sequelize ORM, TypeORM, Django ORM, Gorm
-    * Spring WebFlux, QueryDSL
+    * QueryDSL
     * Swagger API Documentation
 
 - layout: cmmn/left
   name: DevOps
   description: | # this will include new lines to allow paragraphs
     * MariaDB, MongoDB
-    * Redis, RabbitMQ, Hadoop, Spark
+    * Redis, RabbitMQ
     * Nginx, HA Proxy
     * GitLab CI/CD ( CI Script & Runner )
-    * Docker, Docker Swarm, Portainer
-    * InfluxDB 2.x
+    * Docker, Portainer
+    # * InfluxDB 2.x
     * Google Analysis
 
 - layout: cmmn/left
@@ -30,7 +30,7 @@
   name: Collaboration & Tools
   description: | # this will include new lines to allow paragraphs
     * Jira & Confluence
-    * Mattermost, Slack
+    * Mattermost, Slab
     * IntelliJ, VS Code
-    * PostmanCanary
+    * Thunder Client
     * Git
