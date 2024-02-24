@@ -24,7 +24,7 @@
         + RabbitMQ
         + Vue.js
         + Gorm
-    * CTI (Cyber Threat Intelligence) 유지보수
+    * CTI (Cyber Threat Intelligence) 시스템 및 인프라 유지보수
       - 웹사이트 유포지 분석을 위한, <mark>근원지 수집 및 분석</mark>기술 유지보수
       - CTI 수집 및 분석 시스템 기술 스택
         + Spring Boot, Django, Python
