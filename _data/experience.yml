@@ -18,18 +18,23 @@
     * AI 기반 악성코드 탐지, 분석 및 검증 프레임워크 개발 
       - <mark>Project Leader</mark>로써, AI 개발 & 인프라 개발 & 서비스 개발에 대한 전반적인 작업을 진행
       - 악성코드 분석을 위한 도메인과 <mark>AI DevOps</mark> 관리자 페이지를 통한 다양한 기술 스택 경험 보유
-      - 악성코드 분석 도메인 기술 스택 (↓)
+      - 악성코드 분석 도메인 기술 스택
         + Echo, Django REST framework
         + MariaDB, MongoDB
         + RabbitMQ
         + Vue.js
         + Gorm
+    * CTI (Cyber Threat Intelligence) 유지보수
+      - 웹사이트 유포지 분석을 위한, <mark>근원지 수집 및 분석</mark>기술 유지보수
+      - CTI 수집 및 분석 시스템 기술 스택
+        + Spring Boot, Django, Python
+        + AgensGraph (with PostgreSQL)
+        + MongoDB
     * 내PC 돌보미 서비스 시스템 운영 및 유지보수
       - Infra & <mark>예약</mark> 및 운영시스템 유지보수
         + [내 PC 돌보미 예약페이지](https://pcsecucheck.kr/inspect/customer) 유지보수
         + [14세 미만 학부모 동의 페이지](https://pc118.kr:8081/)를 위한 <mark>Infra Operation</mark> & <mark>DevOps</mark> & <mark>Managing</mark>
         + [프로모션 랜딩 페이지](https://pc118.kr/mypc/prev_promotion.html) 개발
-
     * 특허 출원 및 등록
       - 인공지능 자가학습형 웹방화벽 서비스 제공 시스템 및 방법
         + 출원번호 : 10-2021-0155449 (2021.11.12) → 등록번호 : 10-2443-8110000 (2022.09.13)
