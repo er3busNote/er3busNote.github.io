@@ -28,7 +28,6 @@
 - layout: cmmn/left
   name: Collaboration & Tools
   description: | # this will include new lines to allow paragraphs
-    * Jira & Confluence
     * Mattermost, Slab
     * IntelliJ, VS Code
     * Thunder Client
