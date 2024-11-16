@@ -12,11 +12,11 @@
       - <mark>대체</mark>/<mark>복지</mark> 휴가 고도화 및 <mark>시간외 근무</mark> 고도화 작업 진행
 
 - layout: cmmn/top-middle
-  name: AI 개발 파트 매니징
+  name: 국내 R&D 프로젝트 개발 및 유지보수
   quote: >
     2019.01.01 ~ 2024.02.29
   description: | # this will include new lines to allow paragraphs
-    * AI R&D 개발 파트 매니징 (2019.01.01 ~ 2024.02.29)
+    * AI R&D 개발 파트 개발 (2019.01.01 ~ 2024.02.29)
       - 내부 솔루션 관련 AI 모델 및 API 서버 코어 개발 & 매니징 
       - 1일 최소 530만개 이상 웹페이지 소스코드 크롤링 및 정적분석/AI 분석 기능 개발 지원
       - 웹페이지 위변조(디페이스) 공격을 탐지하기 위한 SSD based 모델 유지보수

@@ -9,36 +9,36 @@
     * 팀명 - Xransformer (개인팀)
     * 예선 3위 / 본선 <mark>2위</mark> (<mark>최우수상</mark>)
 
-- layout: cmmn/middle
-  name: K-사이버 시큐리티 챌린지 2020 대회 (AI 악성코드 탐지)
-  dates: (예선) 2020.9.17 ~ 10.27 / (본선) 2020.11.26
-  link: https://www.kisa.or.kr/401/form?postSeq=2662&lang_type=KO
-  quote: >
-    과학기술정보통신부 주최 / 한국인터넷진흥원 (KISA) 주관
-  description: | # this will include new lines to allow paragraphs
-    * 팀명 - AI말랩 (팀장)
-    * 예선 7위 / 본선 5위
+# - layout: cmmn/middle
+#   name: K-사이버 시큐리티 챌린지 2020 대회 (AI 악성코드 탐지)
+#   dates: (예선) 2020.9.17 ~ 10.27 / (본선) 2020.11.26
+#   link: https://www.kisa.or.kr/401/form?postSeq=2662&lang_type=KO
+#   quote: >
+#     과학기술정보통신부 주최 / 한국인터넷진흥원 (KISA) 주관
+#   description: | # this will include new lines to allow paragraphs
+#     * 팀명 - AI말랩 (팀장)
+#     * 예선 7위 / 본선 5위
 
-- layout: cmmn/middle
-  name: 사이버보안 AI 빅데이터 챌린지 2023 (AI기반 네트워크 웹 공격 분류)
-  dates: (예선) 2023.10.20
-  link: https://www.czon.io/challenge/rnd/24700017/leaderboard/private
-  quote: >
-    과학기술정보통신부 주최 / 한국인터넷진흥원 (KISA) 주관
-  description: | # this will include new lines to allow paragraphs
-    * 팀명 - Xransformer
-    * 예선 14위
+# - layout: cmmn/middle
+#   name: 사이버보안 AI 빅데이터 챌린지 2023 (AI기반 네트워크 웹 공격 분류)
+#   dates: (예선) 2023.10.20
+#   link: https://www.czon.io/challenge/rnd/24700017/leaderboard/private
+#   quote: >
+#     과학기술정보통신부 주최 / 한국인터넷진흥원 (KISA) 주관
+#   description: | # this will include new lines to allow paragraphs
+#     * 팀명 - Xransformer
+#     * 예선 14위
 
-- layout: cmmn/middle
-  name: HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
-  dates: 2021.08.02 ~ 2021.10.22
-  link: https://dacon.io/competitions/official/235757/leaderboard
-  quote: >
-    국가정보원 & 국가보안기술연구소 주최
-  description: | # this will include new lines to allow paragraphs
-    * 개인 - CryptoNet
-    * Private Score 20위
-    * 715명 中 상위 12%
+# - layout: cmmn/middle
+#   name: HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
+#   dates: 2021.08.02 ~ 2021.10.22
+#   link: https://dacon.io/competitions/official/235757/leaderboard
+#   quote: >
+#     국가정보원 & 국가보안기술연구소 주최
+#   description: | # this will include new lines to allow paragraphs
+#     * 개인 - CryptoNet
+#     * Private Score 20위
+#     * 715명 中 상위 12%
 
 # - layout: cmmn/middle
 #   name: 병변 검출 AI 경진대회
