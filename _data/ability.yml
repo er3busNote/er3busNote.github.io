@@ -21,7 +21,7 @@
       - 1일 최소 530만개 이상 웹페이지 소스코드 크롤링 및 정적분석/AI 분석 기능 개발 지원
       - 웹페이지 위변조(디페이스) 공격을 탐지하기 위한 SSD based 모델 유지보수
       - 웹방화벽 모듈 내, <mark>Nginx Proxy</mark>로 받아오는 HTTP Request/Response CRS Rule 탐지를 위한 AI 모델 및 API 개발
-      - 클라우드 악성코드 탐지를 위한 내부적인 <mark>Intelligence API</mark> 및 <mark>Infra</mark> 개발 관련 기술 스택 보유
+      - 악성코드 탐지를 위한 <mark>Intelligence API</mark> 및 <mark>Infra</mark> 개발 관련 기술 스택 보유
         + 관련 논문 출판(공동저자) : [악성코드 대응을 위한 신뢰할 수 있는 AI 프레임워크](https://public.thinkonweb.com/journals/jkiisc/digital-library/37877) (via 정보보호학회논문지 JKIISC)
 
 - layout: cmmn/top-middle
