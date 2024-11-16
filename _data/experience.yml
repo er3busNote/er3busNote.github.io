@@ -19,19 +19,22 @@
     * 휴가처리 서비스 유지보수
       - 전년도 <mark>미사용연차</mark> 및 <mark>마이너스연차</mark> 이월기능 개발
       - 휴가규정관리(종일, 반차, 반반차, 시간)에 따른, <mark>연차촉진</mark> 선택화면 템플릿 개선
-      - 회계연도, 입사일 기준에 따른, 연차 부여 및 월별현황 서비스 유지보수
+      - <mark>회계연도</mark>, <mark>입사일</mark> 기준에 따른 연차 부여, 연차촉진 및 월별현황 서비스 유지보수
+      - 대체/복지휴가 <mark>기간설정</mark> 관련 기능 고도화 개발
+      - 시간외근무(종일, 반일, 반반일, 시간)에 따른 <mark>등록</mark>/<mark>수정</mark>/<mark>삭제</mark> 관련 기능 고도화 개발
+
 - layout: cmmn/left
   company: 에프원시큐리티
   link: https://f1security.co.kr/
-  job_title: Spring / NodeJS 서버 개발 & VueJS 프론트 개발 & AI 개발 다수
+  job_title: Python / Go / ASP.NET / Spring / NodeJS 서버 개발 및 유지보수 & VueJS 프론트 개발 & AI 개발 및 RnD 다수
   dates: 2019.01.01 ~ 2024.02.29
   quote: >
-    국내 R&D Project Leader 경험 다수 (서울산업진흥원 SBA, 한국인터넷진흥원 KISA, 한국데이터산업진흥원 KData)
+    국내 R&D Project 경험 다수 (서울산업진흥원 SBA, 한국인터넷진흥원 KISA, 한국데이터산업진흥원 KData)
   description: | # this will include new lines to allow paragraphs
     * AI 기반 악성코드 탐지, 분석 및 검증 프레임워크 개발 
       - <mark>Project Leader</mark>로써, AI 개발 & 인프라 개발 & 서비스 개발에 대한 전반적인 작업을 진행
-      - 악성코드 분석을 위한 도메인과 <mark>AI DevOps</mark> 관리자 페이지를 통한 다양한 기술 스택 경험 보유
-      - 악성코드 분석 도메인 기술 스택
+      - 악성코드 분석을 위한 도메인과 <mark>AI DevOps</mark> 관리자 페이지 기술 스택 경험
+      - 악성코드 분석 도메인 기술 스택 경험
         + Echo, Django REST framework
         + MariaDB, MongoDB
         + RabbitMQ
@@ -39,16 +42,15 @@
         + Gorm
     * CTI (Cyber Threat Intelligence) 시스템 및 인프라 유지보수
       - 웹사이트 유포지 분석을 위한, <mark>근원지 수집 및 분석</mark>기술 유지보수
-      - CTI 수집 및 분석 시스템 기술 스택
+      - CTI 수집 및 분석 시스템 기술 스택 경험
         + Spring Boot, Django, Python
         + AgensGraph (with PostgreSQL)
         + MongoDB
     * 내PC 돌보미 서비스 시스템 운영 및 유지보수
-      - Infra & <mark>예약</mark> 및 운영시스템 유지보수
-        + [내 PC 돌보미 예약페이지](https://pcsecucheck.kr/inspect/customer) 유지보수
-        + [14세 미만 학부모 동의 페이지](https://pc118.kr:8081/)를 위한 <mark>Infra Operation</mark> & <mark>DevOps</mark> & <mark>Managing</mark>
-        + [프로모션 랜딩 페이지](https://pc118.kr/mypc/prev_promotion.html) 개발
+      - Infra & <mark>예약</mark> 및 <mark>운영</mark>시스템 유지보수 경험
+        + ASP Dotnet Core 5.0
+        + Vue.js
     * 특허 출원 및 등록
-      - 인공지능 자가학습형 웹방화벽 서비스 제공 시스템 및 방법
+      - [인공지능 자가학습형 웹방화벽 서비스 제공 시스템 및 방법](https://patentimages.storage.googleapis.com/da/7e/b2/5be1a73ff862f9/KR102443811B1.pdf)
         + 출원번호 : 10-2021-0155449 (2021.11.12) → 등록번호 : 10-2443-8110000 (2022.09.13)
     * 성과를 통한 예정 보다 빠른 3년차 <mark>과장</mark>으로 진급
