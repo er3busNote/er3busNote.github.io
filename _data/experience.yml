@@ -10,7 +10,7 @@
       - <mark>메일 문의</mark> 및 <mark>1:1 문의</mark> 통합 관리 시스템 유지보수
       - TinyMCE 에디터 이미지 클립보드 업로드 기능을 위한 공통 핸들러 추가
       - 첨부파일 Drag & Drop 이벤트 추가 및 <mark>첨부파일 알림 메일 회신</mark> 기능 구현
-      - 문의 내역 전 과정(<mark>접수</mark>/<mark>문의 이관</mark>/<mark>처리내역 등록</mark>/<mark>완료</mark>)에 대한 히스토리 내역 관리 기능 구현
+      - 문의 내역 <mark>접수</mark>, <mark>문의 이관</mark>, <mark>처리내역 등록</mark>, <mark>완료</mark> 전 과정에 대한 히스토리 내역 관리 기능 구현
     * 클라우드 시스템 설정 페이지 리뉴얼
       - RealGridJS 에서 HTML 화면으로 개선작업 진행
     * 인사관리 신규 서비스 개발
