@@ -2,7 +2,7 @@
   name: Backend
   description: | # this will include new lines to allow paragraphs
     * Java, Node.js, Python, Go
-    * Spring Boot 5, Spring Data JPA, 전자정부 프레임워크
+    * Spring Boot, Spring Data JPA, Spring Framework
     * JPA, Express.js, Nest.js, Flask, Django, Echo
     * Hibernate, Sequelize ORM, TypeORM, Django ORM, Gorm
     * QueryDSL
