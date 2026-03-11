@@ -3,6 +3,10 @@
   quote: >
     2024.03.04 ~ 현재
   description: | # this will include new lines to allow paragraphs
+    * 인사관리 출퇴근 서비스 추가 개발 & 유지보수 (2019.01.01 ~ 현재)
+      - 휴가, 시간외근무, 출퇴근 연동 관련 시스템 유지보수
+      - 다양한 출퇴근 유형(고정근무, 자율출퇴근 등)에 따른 출퇴근 관리 유지보수
+      - 간주근로(<mark>직출</mark>/<mark>직퇴</mark>/<mark>재택</mark>/<mark>출장</mark>) 신청 및 <mark>출퇴근 누락/변경</mark> 신청 관련 요청 및 승인 기능 유지보수
     * 인사관리 휴가관리 서비스 추가 개발 & 유지보수 (2019.01.01 ~ 현재)
       - <mark>회계연도</mark>, <mark>회계월</mark>, <mark>입사일</mark> 기준에 따른 휴가 처리 서비스 유지보수
       - 연차휴가, 경조휴가 및 <mark>규정</mark>, 대체/복지 <mark>휴가 부여</mark>
