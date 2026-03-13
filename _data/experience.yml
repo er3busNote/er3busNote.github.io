@@ -6,11 +6,6 @@
   quote: >
     클라우드 서비스 및 내부 서비스 유지보수
   description: | # this will include new lines to allow paragraphs
-    * 고객 지원 관련 내부 시스템 유지보수
-      - <mark>메일 문의</mark> 및 <mark>1:1 문의</mark> 통합 관리 시스템 유지보수
-      - TinyMCE 에디터 이미지 클립보드 업로드 기능을 위한 공통 핸들러 추가
-      - 첨부파일 Drag & Drop 이벤트 추가 및 <mark>첨부파일 알림 메일 회신</mark> 기능 구현
-      - 문의 내역 <mark>접수</mark>, <mark>문의 이관</mark>, <mark>처리내역 등록</mark>, <mark>완료</mark> 전 과정에 대한 히스토리 내역 관리 기능 구현
     * 인사관리 신규 서비스 개발
       - <mark>출퇴근 관리</mark> 서비스 추가 개발
         + 자율출퇴근 근무자를 위한 반차/반반차/시간 휴가 사용단위 신청 시, <mark>근무 예정시간</mark> 기능 추가 개발
@@ -28,6 +23,11 @@
       - <mark>회계연도</mark>, <mark>입사일</mark> 기준에 따른 연차 부여, 연차촉진 및 월별현황 서비스 유지보수
       - 대체/복지휴가 <mark>기간설정</mark> 관련 기능 고도화 개발
       - 시간외근무(종일, 반일, 반반일, 시간)에 따른 <mark>등록</mark>/<mark>수정</mark>/<mark>삭제</mark> 관련 기능 고도화 개발
+    * 고객 지원 관련 내부 시스템 유지보수
+      - <mark>메일 문의</mark> 및 <mark>1:1 문의</mark> 통합 관리 시스템 유지보수
+      - TinyMCE 에디터 이미지 클립보드 업로드 기능을 위한 공통 핸들러 추가
+      - 첨부파일 Drag & Drop 이벤트 추가 및 <mark>첨부파일 알림 메일 회신</mark> 기능 구현
+      - 문의 내역 <mark>접수</mark>, <mark>문의 이관</mark>, <mark>처리내역 등록</mark>, <mark>완료</mark> 전 과정에 대한 히스토리 내역 관리 기능 구현
 
 - layout: cmmn/left
   company: 에프원시큐리티
